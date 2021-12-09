@@ -1,0 +1,1 @@
+{"regions":[{"regionID":"BE4E78","readings":[{"readingID":"A","reading":[18,18,18,18,18,18,18,15,12,11,9,7],"date":"1-Dec-2018"},{"readingID":"B","reading":[7,7,6,5,4,4,9,8,8,7,7,7],"date":"2-Dec-2018"}]}]}
